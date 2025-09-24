@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "f88c573f-7852-ce2e-85e7-2ee124657047",
+  "instructors": {
+    "content": [
+      "91816df0-0d2b-e820-fdd7-acb2f6c1be41"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "54c907ff-4b73-5789-9834-7a493375ad0c",
+    "website": "14-13-psychology-and-economics-spring-2020"
+  },
+  "course_title": "Psychology and Economics",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "Psychology and Economics (aka Behavioral Economics) is a growing subfield of economics that incorporates insights from psychology and other social sciences into economics. This course covers recent advances in behavioral economics by reviewing some of the assumptions made\u00a0in mainstream economic models, and by discussing how human behavior systematically departs from these assumptions.\u00a0Applications will cover a wide range of fields, including labor and public economics, industrial organization, health economics, finance, and development economics.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "14.131",
+  "primary_course_number": "14.13",
+  "course_image_thumbnail": {
+    "content": "164f5b65-c7e9-1f46-32f3-db14b858791c",
+    "website": "14-13-psychology-and-economics-spring-2020"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Exams with Solutions",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "6cd5bc93-e60b-4338-a88f-f95adad9f988",
+  "site_short_id": "14.13-spring-2020",
+  "site_url_path": "courses/14-13-psychology-and-economics-spring-2020",
+  "title": "Course Metadata"
+}
