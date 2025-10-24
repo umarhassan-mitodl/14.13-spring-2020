@@ -53,7 +53,7 @@ Academic Integrity
 
 In this class, you will be held to the high standard of academic integrity expected of all students at MIT.
 
-*   We will follow MIT’s Academic Integrity Policy (see complete policy at {{% resource_link "7e0d3836-a9f6-4adc-89bd-2f66fb0b30d3" "Integrity at MIT" %}}).
+*   We will follow MIT’s Academic Integrity Policy (see complete policy at [Integrity at MIT](http://integrity.mit.edu/)).
 *   You may work jointly with other groups on problem sets but each of you must submit solutions individually. If you choose to work with other students, we expect that you work jointly on the solutions rather than simply copying solutions from another student. This will help you to learn the material and to prepare for exams.
 *   You must work without other students, without books, and without notes on all quizzes and exams.
 *   Violating the Academic Integrity policy in any way will result in official Institute sanction.
